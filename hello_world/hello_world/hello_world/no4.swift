@@ -17,8 +17,8 @@ func no4() {
     print(m > n)
     
     // 実数型だと異なる型だと比較できない
-    let d: Double = 1.2
-    let f: Float = 1.4
+    // let d: Double = 1.2
+    // let f: Float = 1.4
     // print(d == f) -> Binary operator '==' cannot be applied to operands of type 'Double' and 'Float'
     // print(d > f)  -> Binary operator '>' cannot be applied to operands of type 'Double' and 'Float'
 }
