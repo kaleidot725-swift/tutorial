@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		4E94A76125486D6900958EF1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E94A76025486D6900958EF1 /* main.swift */; };
+		4E94A7692551854900958EF1 /* no1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E94A7682551854900958EF1 /* no1.swift */; };
+		4E94A76C2551856000958EF1 /* no2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E94A76B2551856000958EF1 /* no2.swift */; };
+		4E94A76F2551857200958EF1 /* no3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E94A76E2551857200958EF1 /* no3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		4E94A75D25486D6900958EF1 /* hello_world */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hello_world; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E94A76025486D6900958EF1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		4E94A7682551854900958EF1 /* no1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no1.swift; sourceTree = "<group>"; };
+		4E94A76B2551856000958EF1 /* no2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no2.swift; sourceTree = "<group>"; };
+		4E94A76E2551857200958EF1 /* no3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				4E94A76025486D6900958EF1 /* main.swift */,
+				4E94A7682551854900958EF1 /* no1.swift */,
+				4E94A76B2551856000958EF1 /* no2.swift */,
+				4E94A76E2551857200958EF1 /* no3.swift */,
 			);
 			path = hello_world;
 			sourceTree = "<group>";
@@ -119,6 +128,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E94A76F2551857200958EF1 /* no3.swift in Sources */,
+				4E94A76C2551856000958EF1 /* no2.swift in Sources */,
+				4E94A7692551854900958EF1 /* no1.swift in Sources */,
 				4E94A76125486D6900958EF1 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
