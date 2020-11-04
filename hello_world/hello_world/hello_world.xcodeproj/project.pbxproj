@@ -15,6 +15,7 @@
 		4E94A7752551883E00958EF1 /* no5_concat_string.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E94A7742551883E00958EF1 /* no5_concat_string.swift */; };
 		4E9D536F2552D21100BF40E5 /* no6_array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9D536E2552D21100BF40E5 /* no6_array.swift */; };
 		4E9D53772552D57200BF40E5 /* no7_operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9D53762552D57200BF40E5 /* no7_operator.swift */; };
+		4E9D537A2552D94D00BF40E5 /* no8_identifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9D53792552D94D00BF40E5 /* no8_identifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		4E94A7742551883E00958EF1 /* no5_concat_string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no5_concat_string.swift; sourceTree = "<group>"; };
 		4E9D536E2552D21100BF40E5 /* no6_array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no6_array.swift; sourceTree = "<group>"; };
 		4E9D53762552D57200BF40E5 /* no7_operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no7_operator.swift; sourceTree = "<group>"; };
+		4E9D53792552D94D00BF40E5 /* no8_identifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no8_identifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				4E94A7742551883E00958EF1 /* no5_concat_string.swift */,
 				4E9D536E2552D21100BF40E5 /* no6_array.swift */,
 				4E9D53762552D57200BF40E5 /* no7_operator.swift */,
+				4E9D53792552D94D00BF40E5 /* no8_identifier.swift */,
 			);
 			path = hello_world;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E94A76F2551857200958EF1 /* no3_variable_conversion.swift in Sources */,
+				4E9D537A2552D94D00BF40E5 /* no8_identifier.swift in Sources */,
 				4E94A76C2551856000958EF1 /* no2_variable.swift in Sources */,
 				4E94A7692551854900958EF1 /* no1_hello_world.swift in Sources */,
 				4E94A76125486D6900958EF1 /* main.swift in Sources */,
