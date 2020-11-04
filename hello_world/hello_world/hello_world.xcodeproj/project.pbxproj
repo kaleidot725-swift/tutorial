@@ -12,6 +12,8 @@
 		4E94A76C2551856000958EF1 /* no2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E94A76B2551856000958EF1 /* no2.swift */; };
 		4E94A76F2551857200958EF1 /* no3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E94A76E2551857200958EF1 /* no3.swift */; };
 		4E94A772255186F000958EF1 /* no4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E94A771255186F000958EF1 /* no4.swift */; };
+		4E94A7752551883E00958EF1 /* no5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E94A7742551883E00958EF1 /* no5.swift */; };
+		4E9D536F2552D21100BF40E5 /* no6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9D536E2552D21100BF40E5 /* no6.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +35,8 @@
 		4E94A76B2551856000958EF1 /* no2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no2.swift; sourceTree = "<group>"; };
 		4E94A76E2551857200958EF1 /* no3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no3.swift; sourceTree = "<group>"; };
 		4E94A771255186F000958EF1 /* no4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no4.swift; sourceTree = "<group>"; };
+		4E94A7742551883E00958EF1 /* no5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no5.swift; sourceTree = "<group>"; };
+		4E9D536E2552D21100BF40E5 /* no6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no6.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +74,8 @@
 				4E94A76B2551856000958EF1 /* no2.swift */,
 				4E94A76E2551857200958EF1 /* no3.swift */,
 				4E94A771255186F000958EF1 /* no4.swift */,
+				4E94A7742551883E00958EF1 /* no5.swift */,
+				4E9D536E2552D21100BF40E5 /* no6.swift */,
 			);
 			path = hello_world;
 			sourceTree = "<group>";
@@ -135,7 +141,9 @@
 				4E94A76C2551856000958EF1 /* no2.swift in Sources */,
 				4E94A7692551854900958EF1 /* no1.swift in Sources */,
 				4E94A76125486D6900958EF1 /* main.swift in Sources */,
+				4E94A7752551883E00958EF1 /* no5.swift in Sources */,
 				4E94A772255186F000958EF1 /* no4.swift in Sources */,
+				4E9D536F2552D21100BF40E5 /* no6.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
