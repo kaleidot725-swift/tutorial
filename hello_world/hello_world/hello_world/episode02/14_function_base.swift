@@ -7,7 +7,31 @@
 
 import Foundation
 
+var total = 0
+
 func no14() {
+    func count(n: Int) -> Int {
+        total += n
+        return total
+    }
+
+    // 引数ラベルと仮引数を定義できるようになっている
+    func area(height h:Double, width w:Double) -> Double {
+        return h * w
+    }
+
+    // 引数ラベルに関してはアンダーバーで省略できる
+    func compare(_ a:Int, _ b:Int) -> Bool {
+        return a == b
+    }
+
+    // アンダーバーは無視するとった意味合いで使われる。代入された値を使わない、For文の制御変数を使わないなどの使い方がある。
+    func ignore_loop() {
+        for _ in 1...10 {
+            print("PRINT!!")
+        }
+    }
+
     // 引数ラベルをつけて引数を渡す
     let t1 = count(n:1)
     print(String(t1))
@@ -25,28 +49,4 @@ func no14() {
     print(String(b1))
     
     ignore_loop()
-}
-
-var total = 0
-
-func count(n: Int) -> Int {
-    total += n
-    return total
-}
-
-// 引数ラベルと仮引数を定義できるようになっている
-func area(height h:Double, width w:Double) -> Double {
-    return h * w
-}
-
-// 引数ラベルに関してはアンダーバーで省略できる
-func compare(_ a:Int, _ b:Int) -> Bool {
-    return a == b
-}
-
-// アンダーバーは無視するとった意味合いで使われる。代入された値を使わない、For文の制御変数を使わないなどの使い方がある。
-func ignore_loop() {
-    for _ in 1...10 {
-        print("PRINT!!")
-    }
 }
