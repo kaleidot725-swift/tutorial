@@ -7,4 +7,4 @@
 
 import Foundation
 
-no24()
+no26()
