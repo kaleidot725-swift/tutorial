@@ -48,6 +48,8 @@
 		4E9D536F2552D21100BF40E5 /* no6_array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9D536E2552D21100BF40E5 /* no6_array.swift */; };
 		4E9D53772552D57200BF40E5 /* no7_operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9D53762552D57200BF40E5 /* no7_operator.swift */; };
 		4E9D537A2552D94D00BF40E5 /* no8_identifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9D53792552D94D00BF40E5 /* no8_identifier.swift */; };
+		4EFB054C26A405CC00BFC78B /* 41_stride.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFB054B26A405CC00BFC78B /* 41_stride.swift */; };
+		4EFB054E26A4094200BFC78B /* 42_array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFB054D26A4094200BFC78B /* 42_array.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -105,6 +107,8 @@
 		4E9D536E2552D21100BF40E5 /* no6_array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no6_array.swift; sourceTree = "<group>"; };
 		4E9D53762552D57200BF40E5 /* no7_operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no7_operator.swift; sourceTree = "<group>"; };
 		4E9D53792552D94D00BF40E5 /* no8_identifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no8_identifier.swift; sourceTree = "<group>"; };
+		4EFB054B26A405CC00BFC78B /* 41_stride.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 41_stride.swift; sourceTree = "<group>"; };
+		4EFB054D26A4094200BFC78B /* 42_array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 42_array.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +127,8 @@
 			children = (
 				4E0DE716269AAE8300471C40 /* 39_range.swift */,
 				4E0DE718269AB64A00471C40 /* 40_random.swift */,
+				4EFB054B26A405CC00BFC78B /* 41_stride.swift */,
+				4EFB054D26A4094200BFC78B /* 42_array.swift */,
 			);
 			path = episode06;
 			sourceTree = "<group>";
@@ -292,6 +298,7 @@
 				4E43129925D7CD9900D6B4AB /* 14_function_base.swift in Sources */,
 				4E9852982695CEA9002F074B /* 34_protocol.swift in Sources */,
 				4E4312B425D9686500D6B4AB /* 20_method.swift in Sources */,
+				4EFB054C26A405CC00BFC78B /* 41_stride.swift in Sources */,
 				4E084A222613FCF300596536 /* 33_failable_initializer.swift in Sources */,
 				4E0DE7122699B48500471C40 /* 38_comparable.swift in Sources */,
 				4E94A76F2551857200958EF1 /* no3_variable_conversion.swift in Sources */,
@@ -314,6 +321,7 @@
 				4E084A192613F92B00596536 /* 30_readline.swift in Sources */,
 				4E0DE710269738C800471C40 /* 37_equatable.swift in Sources */,
 				4E084A162612A9CA00596536 /* 29_optional_func.swift in Sources */,
+				4EFB054E26A4094200BFC78B /* 42_array.swift in Sources */,
 				4E08352425D7704F003E37DB /* 12_label_loop.swift in Sources */,
 				4E4312AC25D8F3A200D6B4AB /* 18_operator.swift in Sources */,
 				4E084A1F2613FB5100596536 /* 32_optional_array.swift in Sources */,
